@@ -1,11 +1,11 @@
 ---
-title: "AstroのブログでSvelteを使って目次を作る"
+title: AstroのブログでSvelteを使って目次を作る
 tags:
   - astro
-  - svelte
+  - Svelte
 private: false
-updated_at: '2026-10-23T01:31:05+09:00'
-id: null
+updated_at: '2026-10-23T01:39:31+09:00'
+id: 022a3e2187ddf5b5e307
 organization_url_name: null
 slide: false
 ignorePublish: false
